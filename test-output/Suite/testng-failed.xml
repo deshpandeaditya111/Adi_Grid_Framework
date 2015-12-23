@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test_1(failed)">
+    <classes>
+      <class name="Main.InitiateClass">
+        <methods>
+          <include name="Smoke"/>
+        </methods>
+      </class> <!-- Main.InitiateClass -->
+    </classes>
+  </test> <!-- Test_1(failed) -->
+  <test name="Test_2(failed)">
+    <classes>
+      <class name="Main.InitiateClass">
+        <methods>
+          <include name="Smoke"/>
+        </methods>
+      </class> <!-- Main.InitiateClass -->
+    </classes>
+  </test> <!-- Test_2(failed) -->
+  <test name="Test_3(failed)">
+    <classes>
+      <class name="Main.InitiateClass">
+        <methods>
+          <include name="Smoke"/>
+        </methods>
+      </class> <!-- Main.InitiateClass -->
+    </classes>
+  </test> <!-- Test_3(failed) -->
+</suite> <!-- Failed suite [Suite] -->

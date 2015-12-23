@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]">
+  <test name="Test_1(failed)(failed)">
+    <classes>
+      <class name="Main.TestNG_Initiate">
+        <methods>
+          <include name="Smoke_Test_All_Functionality"/>
+        </methods>
+      </class> <!-- Main.TestNG_Initiate -->
+    </classes>
+  </test> <!-- Test_1(failed)(failed) -->
+  <test name="Test_2(failed)(failed)">
+    <classes>
+      <class name="Main.TestNG_Initiate">
+        <methods>
+          <include name="Smoke_Test_All_Functionality"/>
+        </methods>
+      </class> <!-- Main.TestNG_Initiate -->
+    </classes>
+  </test> <!-- Test_2(failed)(failed) -->
+  <test name="Test_3(failed)(failed)">
+    <classes>
+      <class name="Main.TestNG_Initiate">
+        <methods>
+          <include name="Smoke_Test_All_Functionality"/>
+        </methods>
+      </class> <!-- Main.TestNG_Initiate -->
+    </classes>
+  </test> <!-- Test_3(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
